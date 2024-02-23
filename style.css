@@ -1,0 +1,36 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: azure;
+    margin: 0px;
+}
+li{
+    list-style: none;
+}
+.header{
+    color: black;
+    font-weight: bolder;
+    background-color: #d2691e99;
+    /* margin: 20px; */
+    padding: 10px;
+}
+
+.list{
+    padding: 20px;
+}
+.recipeCards{
+    width: 400px;
+    height: auto;
+    display: block;
+    text-align: center;
+    padding-bottom: 5px;
+}
+.recipeCards>img{
+    height: auto;
+    width: 300px;
+}
+.footer{
+    background-color: #d2691e99;
+    padding: 10px;
+}
